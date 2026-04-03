@@ -45,7 +45,7 @@ docker-compose up --build
 
 ## 🌐 Access the App
 
-* Frontend: http://localhost
+* Frontend: http://127.0.0.1:5500/frontend/index.html
 * Backend API: http://localhost:5000
 
 ---
